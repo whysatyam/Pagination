@@ -1,1 +1,1 @@
-# Responsive Pagination using React + Tailwind
+### Responsive Pagination using React + Tailwind
